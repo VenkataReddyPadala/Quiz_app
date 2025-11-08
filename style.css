@@ -184,3 +184,7 @@ button.submit-answer:hover {
   border-radius: 5px;
   cursor: pointer;
 }
+#quiz-end {
+  text-align: center;
+}
+
